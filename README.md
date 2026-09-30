@@ -1,5 +1,11 @@
-# Hello there
+# Hello 👋
 
-### I'm Luis. I'm a Mexican software engineer focused on backend and platform engineering.
+#### I'm a Mexican software engineer focused on backend, architecture, and platform engineering.
 
-### Currently based in Spain
+- 🏢 I'm currently working at **a fintech company**
+- ⚙️ I use `python`, `ts`, `terraform` and run as much on `k8s`.
+- 🌍 Currently based in Spain
+
+##### GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=luisgj&theme=city-lights)](https://git.io/streak-stats)
