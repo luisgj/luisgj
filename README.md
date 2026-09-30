@@ -3,7 +3,7 @@
 #### I'm a Mexican software engineer focused on backend, architecture, and platform engineering.
 
 - 🏢 I'm currently working at **a fintech company**
-- ⚙️ I use `python`, `ts`, `terraform` and run as much on `k8s`.
+- ⚙️ I use `python`, `ts`, `terraform` and run as much as I can on `k8s` and `docker`.
 - 🌍 Currently based in Spain
 
 ##### GitHub Streak
