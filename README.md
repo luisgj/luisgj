@@ -1,5 +1,5 @@
-# Hi
+# Hello there
 
-## I'm Luis. I'm a Mexican software engineer focused on backend and platform engineering.
+### I'm Luis. I'm a Mexican software engineer focused on backend and platform engineering.
 
-## Currently based in Spain
+### Currently based in Spain
