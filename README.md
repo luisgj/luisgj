@@ -4,6 +4,7 @@
 
 - 🏢 I'm currently working at **a fintech company**
 - Creator of [Oh, Snap! - Website monitoring](https://ohsnap.io)
+- Creator of [Bando](https://bando.cool)
 - ⚙️ I use `python`, `ts`, `terraform` and run as much as I can on `k8s` and `docker`.
 - 🌍 Currently based in Spain
 - contact me: luis@hellonativo.co
